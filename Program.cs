@@ -50,7 +50,7 @@ namespace csharp
                 }
                 Console.WriteLine("");
                 app.UpdateQuality();
-                Console.ReadLine();
+               
             }
         }
     }
